@@ -1,4 +1,4 @@
-![.:.Generate A Random Password'..:.](genRandomPw.png)
+![.:.Password Generator!..:.](genRandomPw.png)
 
 
 ## Password generator
@@ -16,4 +16,4 @@ Return the random password as a string.
 Note: "randomness" is checked by counting the characters used in the generated passwords - all characters should have less than 50% occurrence. Based on extensive tests, the normal rate is around 35%.
 
 ## Take Aways:
-- By using the double tilde ~~ I can replace Math.floor() which shortens the length of my code. 
+- By using the double tilde ~~ I can replace Math.floor() which shortens the length of my code.
